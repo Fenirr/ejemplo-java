@@ -1,0 +1,15 @@
+package metodos1;
+
+public class ejemplo4 {
+	public static void main (String[]args){
+		sumar();
+	}
+		public static void sumar(){
+			int ñ=35;
+			int u=48;
+			int k=95;
+			int sumar= ñ+u+k;
+			System.out.println("la suma es :"+ sumar);
+			
+		}
+	}
